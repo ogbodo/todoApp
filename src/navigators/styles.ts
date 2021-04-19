@@ -1,6 +1,6 @@
-import style from "styled-components/native";
+import styled from "styled-components/native";
 
-export const TouchableWrapper = style.TouchableOpacity`
-margin-bottom: 15px;
-padding: 10px;
+export const TouchableWrapper = styled.TouchableOpacity`
+  margin-bottom: 15px;
+  padding: 10px;
 `;

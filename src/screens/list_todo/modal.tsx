@@ -8,7 +8,7 @@ import {
   //@ts-ignore
 } from "react-native-modals";
 
-import { Container, TodoTitle, TitleContainer } from "./style";
+import { Container, TodoTitle } from "./styles";
 
 const TodoDetails = () => {
   return (
